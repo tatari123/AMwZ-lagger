@@ -1,1 +1,1 @@
-# AMwZ-lagger
+# AMwZ-Free script
